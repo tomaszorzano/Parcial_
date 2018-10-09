@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1539045450 source:d:\zorzano.tomass.1g\alquileres.c
+	"funciones.h"
+	"alquileres.h"
+	"categoria.h"
+	"cliente.h"
+	"juego.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539045904 d:\zorzano.tomass.1g\funciones.h
+
+1539044925 d:\zorzano.tomass.1g\alquileres.h
+
+1539038623 d:\zorzano.tomass.1g\categoria.h
+
+1539044225 d:\zorzano.tomass.1g\cliente.h
+
+1539038994 d:\zorzano.tomass.1g\juego.h
+
+1539038119 source:d:\zorzano.tomass.1g\categoria.c
+	"funciones.h"
+	"alquileres.h"
+	"categoria.h"
+	"cliente.h"
+	"juego.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539045926 source:d:\zorzano.tomass.1g\cliente.c
+	"funciones.h"
+	"alquileres.h"
+	"categoria.h"
+	"cliente.h"
+	"juego.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539045904 source:d:\zorzano.tomass.1g\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1539038992 source:d:\zorzano.tomass.1g\juego.c
+	"funciones.h"
+	"alquileres.h"
+	"categoria.h"
+	"cliente.h"
+	"juego.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539044231 source:d:\zorzano.tomass.1g\main.c
+	"funciones.h"
+	"alquileres.h"
+	"categoria.h"
+	"cliente.h"
+	"juego.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
